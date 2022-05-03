@@ -26,7 +26,7 @@
 
 - 酷安：[https://www.coolapk.com/u/1315644](https://www.coolapk.com/u/1315644 "https://www.coolapk.com/u/1315644")
 
-- Telegram：[https://t.me/Nianbroken](https://t.me/Nianbroken "https://t.me/Nianbroken")
+- Telegram：[Nianbroken](https://t.me/Nianbroken "Nianbroken")
 
 ------------
 
