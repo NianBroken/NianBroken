@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/NianBroken/NianBroken/WriteCodes.gif"/></div>
 
-<!--
-**NianBroken/NianBroken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Klauthmos
 
-Here are some ideas to get you started:
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NianBroken&include_all_commits=true&rank_icon=github&hide_title=true&" alt="nianbroken" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+you can reach me anytime through these channels:
+
+- Telegram： [NianBroken](https://t.me/Nianbroken)
+
+- QQ： [2971802058](https://qm.qq.com/cgi-bin/qm/qr?k=qC1PE50EbPizyX_9NHsNxQSWawteFoRD)
+
+- WeChat： [NianBroken](https://cdn.jsdelivr.net/gh/NianBroken/NianBroken/WeChat.png)
+
+- Gmail： [suinian666@gmail.com](mailto:suinian666@gmail.com)
